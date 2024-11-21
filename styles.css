@@ -1,0 +1,16 @@
+a {
+    font-family:'Times New Roman', Times, serif;
+    color: black;
+}
+
+.background {
+    background-image: url('./images/tuscany.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 300px; /* Set height for the background section */
+    color: white; /* Optional: Text color on the background */
+    display: flex; /* Optional: Center align content */
+    align-items: center;
+    justify-content: center;
+}
